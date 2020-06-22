@@ -1,0 +1,25 @@
+
+body {
+    background-color: pink;
+    font-family: 'MuseoModerno', cursive;
+
+}
+
+.nav {
+    padding-top: 200px;
+    color: red;
+    align-items: center;
+    font-size: 2rem;
+}
+.jumbotron {
+    background: rgb(245, 217, 221);
+    border: 2px solid rgb(235, 141, 141);
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+li {
+    list-style: none;
+}
